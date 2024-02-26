@@ -1,0 +1,15 @@
+C:\Users\taham\OneDrive\اسناد\Dev Projects\C#\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\taham\OneDrive\اسناد\Dev Projects\C#\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\taham\OneDrive\اسناد\Dev Projects\C#\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\taham\OneDrive\اسناد\Dev Projects\C#\Notepad\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+C:\Users\taham\OneDrive\اسناد\Dev Projects\C#\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\taham\OneDrive\اسناد\Dev Projects\C#\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\taham\OneDrive\اسناد\Dev Projects\C#\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\taham\OneDrive\اسناد\Dev Projects\C#\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\taham\OneDrive\اسناد\Dev Projects\C#\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\taham\OneDrive\اسناد\Dev Projects\C#\Notepad\Notepad\obj\Debug\Notepad.notepad.resources
+C:\Users\taham\OneDrive\اسناد\Dev Projects\C#\Notepad\Notepad\bin\Debug\dje\Notepad.resources.dll
+C:\Users\taham\OneDrive\اسناد\Dev Projects\C#\Notepad\Notepad\obj\Debug\Notepad.notepad.dje.resources
+C:\Users\taham\OneDrive\اسناد\Dev Projects\C#\Notepad\Notepad\obj\Debug\dje\Notepad.resources.dll
+C:\Users\taham\OneDrive\اسناد\Dev Projects\C#\Notepad\Notepad\obj\Debug\Notepad.About.resources
+C:\Users\taham\OneDrive\اسناد\Dev Projects\C#\Notepad\Notepad\obj\Debug\Notepad.PageSetup.resources
