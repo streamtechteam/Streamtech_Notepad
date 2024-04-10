@@ -132,7 +132,7 @@
     <value>0, 55</value>
   </data>
   <data name="notepad_txt.Size" type="System.Drawing.Size, System.Drawing">
-    <value>800, 373</value>
+    <value>800, 371</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="notepad_txt.TabIndex" type="System.Int32, mscorlib">
@@ -174,7 +174,7 @@
     <value>Ctrl+N</value>
   </data>
   <data name="newToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>224, 26</value>
+    <value>181, 26</value>
   </data>
   <data name="newToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;New</value>
@@ -202,13 +202,13 @@
     <value>Ctrl+O</value>
   </data>
   <data name="openToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>224, 26</value>
+    <value>181, 26</value>
   </data>
   <data name="openToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;Open</value>
   </data>
   <data name="toolStripSeparator.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 6</value>
+    <value>178, 6</value>
   </data>
   <data name="saveToolStripMenuItem1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -233,19 +233,19 @@
     <value>Ctrl+S</value>
   </data>
   <data name="saveToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>224, 26</value>
+    <value>181, 26</value>
   </data>
   <data name="saveToolStripMenuItem1.Text" xml:space="preserve">
     <value>&amp;Save</value>
   </data>
   <data name="saveAsToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>224, 26</value>
+    <value>181, 26</value>
   </data>
   <data name="saveAsToolStripMenuItem1.Text" xml:space="preserve">
     <value>Save &amp;As</value>
   </data>
   <data name="toolStripSeparator3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 6</value>
+    <value>178, 6</value>
   </data>
   <data name="printToolStripMenuItem1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -269,16 +269,16 @@
     <value>Ctrl+P</value>
   </data>
   <data name="printToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>224, 26</value>
+    <value>181, 26</value>
   </data>
   <data name="printToolStripMenuItem1.Text" xml:space="preserve">
     <value>&amp;Print</value>
   </data>
   <data name="toolStripSeparator5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 6</value>
+    <value>178, 6</value>
   </data>
   <data name="exitToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>224, 26</value>
+    <value>181, 26</value>
   </data>
   <data name="exitToolStripMenuItem1.Text" xml:space="preserve">
     <value>E&amp;xit</value>
@@ -507,10 +507,10 @@
     <value>174, 17</value>
   </metadata>
   <data name="statusStrip1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 428</value>
+    <value>0, 426</value>
   </data>
   <data name="statusStrip1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>800, 22</value>
+    <value>800, 24</value>
   </data>
   <data name="statusStrip1.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
